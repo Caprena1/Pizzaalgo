@@ -1,0 +1,5 @@
+Order pizza
+Wait for pizza
+Pay for pizza
+Eat pizza
+Clean up kitchen
